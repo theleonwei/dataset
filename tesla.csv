@@ -1,0 +1,597 @@
+model,line,name,date,price
+Y,SR - AWD,Model Y,2023-04-06,49990
+Y,SR - AWD,Model Y,2023-04-17,49990
+Y,SR - AWD,Model Y,2023-04-18,46990
+Y,SR - AWD,Model Y,2023-04-28,46990
+Y,SR - AWD,Model Y,2023-04-30,46990
+Y,SR - AWD,Model Y,2023-05-01,47240
+Y,SR - AWD,Model Y,2023-05-10,47240
+Y,SR - AWD,Model Y,2023-05-11,47490
+Y,SR - AWD,Model Y,2023-05-19,47490
+Y,LR - AWD,Model Y Long Range,2019-03-15,51000
+Y,LR - AWD,Model Y Long Range,2019-03-23,51000
+Y,LR - AWD,Model Y Long Range,2019-03-24,52000
+Y,LR - AWD,Model Y Long Range,2020-01-28,52000
+Y,LR - AWD,Model Y Long Range,2020-01-29,52990
+Y,LR - AWD,Model Y Long Range,2020-07-10,52990
+Y,LR - AWD,Model Y Long Range,2020-07-11,49990
+Y,LR - AWD,Model Y Long Range,2021-01-07,49990
+Y,LR - AWD,Model Y Long Range,2021-02-16,49990
+Y,LR - AWD,Model Y Long Range,2021-02-17,49990
+Y,LR - AWD,Model Y Long Range,2021-02-20,49990
+Y,LR - AWD,Model Y Long Range,2021-02-21,48990
+Y,LR - AWD,Model Y Long Range,2021-03-10,48990
+Y,LR - AWD,Model Y Long Range,2021-03-11,49900
+Y,LR - AWD,Model Y Long Range,2021-04-07,49900
+Y,LR - AWD,Model Y Long Range,2021-04-08,50490
+Y,LR - AWD,Model Y Long Range,2021-04-21,50490
+Y,LR - AWD,Model Y Long Range,2021-04-22,50990
+Y,LR - AWD,Model Y Long Range,2021-05-05,50990
+Y,LR - AWD,Model Y Long Range,2021-05-06,51490
+Y,LR - AWD,Model Y Long Range,2021-05-20,51490
+Y,LR - AWD,Model Y Long Range,2021-05-21,51990
+Y,LR - AWD,Model Y Long Range,2021-06-08,51990
+Y,LR - AWD,Model Y Long Range,2021-06-09,52490
+Y,LR - AWD,Model Y Long Range,2021-06-24,52490
+Y,LR - AWD,Model Y Long Range,2021-06-25,52990
+Y,LR - AWD,Model Y Long Range,2021-07-21,52990
+Y,LR - AWD,Model Y Long Range,2021-07-22,53990
+Y,LR - AWD,Model Y Long Range,2021-10-04,53990
+Y,LR - AWD,Model Y Long Range,2021-10-05,54990
+Y,LR - AWD,Model Y Long Range,2021-10-21,54990
+Y,LR - AWD,Model Y Long Range,2021-10-22,56990
+Y,LR - AWD,Model Y Long Range,2021-11-03,56990
+Y,LR - AWD,Model Y Long Range,2021-11-04,57990
+Y,LR - AWD,Model Y Long Range,2021-11-10,57990
+Y,LR - AWD,Model Y Long Range,2021-11-11,58990
+Y,LR - AWD,Model Y Long Range,2022-03-08,58990
+Y,LR - AWD,Model Y Long Range,2022-03-09,59990
+Y,LR - AWD,Model Y Long Range,2022-03-13,59990
+Y,LR - AWD,Model Y Long Range,2022-03-14,62990
+Y,LR - AWD,Model Y Long Range,2022-04-09,62990
+Y,LR - AWD,Model Y Long Range,2022-06-14,62990
+Y,LR - AWD,Model Y Long Range,2022-06-15,65990
+Y,LR - AWD,Model Y Long Range,2022-08-20,65990
+Y,LR - AWD,Model Y Long Range,2022-08-21,65990
+Y,LR - AWD,Model Y Long Range,2022-12-01,65990
+Y,LR - AWD,Model Y Long Range,2022-12-22,65990
+Y,LR - AWD,Model Y Long Range,2023-01-11,65990
+Y,LR - AWD,Model Y Long Range,2023-01-12,52990
+Y,LR - AWD,Model Y Long Range,2023-01-22,52990
+Y,LR - AWD,Model Y Long Range,2023-01-23,53490
+Y,LR - AWD,Model Y Long Range,2023-02-02,53490
+Y,LR - AWD,Model Y Long Range,2023-02-03,54990
+Y,LR - AWD,Model Y Long Range,2023-02-09,54990
+Y,LR - AWD,Model Y Long Range,2023-02-10,54990
+Y,LR - AWD,Model Y Long Range,2023-02-11,54990
+Y,LR - AWD,Model Y Long Range,2023-02-12,54990
+Y,LR - AWD,Model Y Long Range,2023-04-05,54990
+Y,LR - AWD,Model Y Long Range,2023-04-06,52990
+Y,LR - AWD,Model Y Long Range,2023-04-17,52990
+Y,LR - AWD,Model Y Long Range,2023-04-18,49990
+Y,LR - AWD,Model Y Long Range,2023-04-28,49990
+Y,LR - AWD,Model Y Long Range,2023-04-30,49990
+Y,LR - AWD,Model Y Long Range,2023-05-01,50240
+Y,LR - AWD,Model Y Long Range,2023-05-10,50240
+Y,LR - AWD,Model Y Long Range,2023-05-11,50490
+Y,LR - AWD,Model Y Long Range,2023-05-19,50490
+Y,P,Model Y Performance,2019-03-15,60000
+Y,P,Model Y Performance,2019-03-23,60000
+Y,P,Model Y Performance,2019-03-24,61000
+Y,P,Model Y Performance,2020-01-28,61000
+Y,P,Model Y Performance,2020-01-29,60990
+Y,P,Model Y Performance,2020-07-10,60990
+Y,P,Model Y Performance,2020-07-11,59990
+Y,P,Model Y Performance,2021-01-07,59990
+Y,P,Model Y Performance,2021-02-16,59990
+Y,P,Model Y Performance,2021-02-17,60990
+Y,P,Model Y Performance,2021-02-20,60990
+Y,P,Model Y Performance,2021-02-21,60990
+Y,P,Model Y Performance,2021-03-10,60990
+Y,P,Model Y Performance,2021-03-11,60990
+Y,P,Model Y Performance,2021-04-07,60990
+Y,P,Model Y Performance,2021-04-08,60990
+Y,P,Model Y Performance,2021-04-21,60990
+Y,P,Model Y Performance,2021-04-22,60990
+Y,P,Model Y Performance,2021-05-05,60990
+Y,P,Model Y Performance,2021-05-06,60990
+Y,P,Model Y Performance,2021-05-20,60990
+Y,P,Model Y Performance,2021-05-21,60990
+Y,P,Model Y Performance,2021-06-08,60990
+Y,P,Model Y Performance,2021-06-09,60990
+Y,P,Model Y Performance,2021-06-24,60990
+Y,P,Model Y Performance,2021-06-25,60990
+Y,P,Model Y Performance,2021-07-21,60990
+Y,P,Model Y Performance,2021-07-22,60990
+Y,P,Model Y Performance,2021-10-04,60990
+Y,P,Model Y Performance,2021-10-05,61990
+Y,P,Model Y Performance,2021-10-21,61990
+Y,P,Model Y Performance,2021-10-22,61990
+Y,P,Model Y Performance,2021-11-03,61990
+Y,P,Model Y Performance,2021-11-04,62990
+Y,P,Model Y Performance,2021-11-10,62990
+Y,P,Model Y Performance,2021-11-11,63990
+Y,P,Model Y Performance,2022-03-08,63990
+Y,P,Model Y Performance,2022-03-09,63990
+Y,P,Model Y Performance,2022-03-13,63990
+Y,P,Model Y Performance,2022-03-14,67990
+Y,P,Model Y Performance,2022-04-09,67990
+Y,P,Model Y Performance,2022-06-14,67990
+Y,P,Model Y Performance,2022-06-15,69990
+Y,P,Model Y Performance,2022-08-20,69990
+Y,P,Model Y Performance,2022-08-21,69990
+Y,P,Model Y Performance,2022-12-01,69990
+Y,P,Model Y Performance,2022-12-22,69990
+Y,P,Model Y Performance,2023-01-11,69990
+Y,P,Model Y Performance,2023-01-12,56990
+Y,P,Model Y Performance,2023-01-22,56990
+Y,P,Model Y Performance,2023-01-23,56990
+Y,P,Model Y Performance,2023-02-02,56990
+Y,P,Model Y Performance,2023-02-03,57990
+Y,P,Model Y Performance,2023-02-09,57990
+Y,P,Model Y Performance,2023-02-10,58490
+Y,P,Model Y Performance,2023-02-11,58490
+Y,P,Model Y Performance,2023-02-12,58990
+Y,P,Model Y Performance,2023-04-05,58990
+Y,P,Model Y Performance,2023-04-06,56990
+Y,P,Model Y Performance,2023-04-17,56990
+Y,P,Model Y Performance,2023-04-18,53990
+Y,P,Model Y Performance,2023-04-28,53990
+Y,P,Model Y Performance,2023-04-30,53990
+Y,P,Model Y Performance,2023-05-01,54240
+Y,P,Model Y Performance,2023-05-10,54240
+Y,P,Model Y Performance,2023-05-11,54490
+Y,P,Model Y Performance,2023-05-19,54490
+S,LR (100D),Model S,2018-10-01,96500
+S,LR (100D),Model S,2018-11-09,96500
+S,LR (100D),Model S,2018-11-10,96000
+S,LR (100D),Model S,2018-12-31,96000
+S,LR (100D),Model S,2019-01-01,94000
+S,LR (100D),Model S,2019-01-28,94000
+S,LR (100D),Model S,2019-01-29,93000
+S,LR (100D),Model S,2019-02-27,93000
+S,LR (100D),Model S,2019-02-28,83000
+S,LR (100D),Model S,2019-03-20,83000
+S,LR (100D),Model S,2019-03-21,85000
+S,LR (100D),Model S,2019-04-22,85000
+S,LR (100D),Model S,2019-04-23,88000
+S,LR (100D),Model S,2019-05-20,88000
+S,LR (100D),Model S,2019-05-21,85000
+S,LR (100D),Model S,2019-07-14,85000
+S,LR (100D),Model S,2019-07-15,79990
+S,LR (100D),Model S,2020-05-26,79990
+S,LR (100D),Model S,2020-05-27,74990
+S,LR (100D),Model S,2020-09-22,74990
+S,LR (100D),Model S,2020-10-12,74990
+S,LR (100D),Model S,2020-10-13,71990
+S,LR (100D),Model S,2020-10-14,69420
+S,LR (100D),Model S,2021-01-26,69420
+S,LR (100D),Model S,2021-01-27,79990
+S,LR (100D),Model S,2021-03-10,79990
+S,LR (100D),Model S,2021-03-11,79990
+S,LR (100D),Model S,2021-06-05,79990
+S,LR (100D),Model S,2021-06-06,79990
+S,LR (100D),Model S,2021-06-08,79990
+S,LR (100D),Model S,2021-06-09,79990
+S,LR (100D),Model S,2021-07-07,79990
+S,LR (100D),Model S,2021-07-08,84990
+S,LR (100D),Model S,2021-08-03,84990
+S,LR (100D),Model S,2021-08-04,89990
+S,LR (100D),Model S,2021-10-21,89990
+S,LR (100D),Model S,2021-10-22,94990
+S,LR (100D),Model S,2022-03-13,94990
+S,LR (100D),Model S,2022-03-14,99990
+S,LR (100D),Model S,2022-06-14,99990
+S,LR (100D),Model S,2022-06-15,104990
+S,LR (100D),Model S,2022-12-30,104990
+S,LR (100D),Model S,2023-01-11,104990
+S,LR (100D),Model S,2023-01-12,94990
+S,LR (100D),Model S,2023-03-04,94990
+S,LR (100D),Model S,2023-03-05,89990
+S,LR (100D),Model S,2023-04-05,89990
+S,LR (100D),Model S,2023-04-06,84990
+S,LR (100D),Model S,2023-04-19,84990
+S,LR (100D),Model S,2023-04-20,87490
+S,LR (100D),Model S,2023-05-10,87490
+S,LR (100D),Model S,2023-05-11,88490
+S,LR (100D),Model S,2023-05-19,88490
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2018-10-01,135000
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2018-11-09,135000
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2018-11-10,135000
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2018-12-31,135000
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2019-01-01,133000
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2019-01-28,133000
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2019-01-29,132000
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2019-02-27,132000
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2019-02-28,114000
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2019-03-20,114000
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2019-03-21,119000
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2019-04-22,119000
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2019-04-23,119000
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2019-05-20,119000
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2019-05-21,116000
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2019-07-14,116000
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2019-07-15,99990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2020-05-26,99990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2020-05-27,94990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2020-09-22,94990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2020-10-12,94990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2020-10-13,91990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2020-10-14,91990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2021-01-26,91990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2021-01-27,119990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2021-03-10,119990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2021-03-11,119990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2021-06-05,119990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2021-06-06,119990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2021-06-08,119990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2021-06-09,129990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2021-07-07,129990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2021-07-08,129990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2021-08-03,129990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2021-08-04,129990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2021-10-21,129990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2021-10-22,129990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2022-03-13,129990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2022-03-14,135990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2022-06-14,135990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2022-06-15,135990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2022-12-30,135990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2023-01-11,135990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2023-01-12,114990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2023-03-04,114990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2023-03-05,109990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2023-04-05,109990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2023-04-06,104990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2023-04-19,104990
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2023-04-20,107490
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2023-05-10,107490
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2023-05-11,108490
+S,"Plaid (P-LR+L, P100DL)",Model S Plaid,2023-05-19,108490
+X,LR (100D),Model X,2018-10-01,99500
+X,LR (100D),Model X,2018-11-09,99500
+X,LR (100D),Model X,2018-11-10,99000
+X,LR (100D),Model X,2018-12-31,99000
+X,LR (100D),Model X,2019-01-01,97000
+X,LR (100D),Model X,2019-01-28,97000
+X,LR (100D),Model X,2019-01-29,96000
+X,LR (100D),Model X,2019-02-27,96000
+X,LR (100D),Model X,2019-02-28,88000
+X,LR (100D),Model X,2019-03-20,88000
+X,LR (100D),Model X,2019-03-21,89500
+X,LR (100D),Model X,2019-04-22,89500
+X,LR (100D),Model X,2019-04-23,93000
+X,LR (100D),Model X,2019-05-20,93000
+X,LR (100D),Model X,2019-05-21,91000
+X,LR (100D),Model X,2019-07-14,91000
+X,LR (100D),Model X,2019-07-15,84990
+X,LR (100D),Model X,2020-05-26,84990
+X,LR (100D),Model X,2020-05-27,79990
+X,LR (100D),Model X,2021-01-26,79990
+X,LR (100D),Model X,2021-01-27,89990
+X,LR (100D),Model X,2021-07-07,89990
+X,LR (100D),Model X,2021-07-08,94990
+X,LR (100D),Model X,2021-08-03,94990
+X,LR (100D),Model X,2021-08-04,99990
+X,LR (100D),Model X,2021-10-21,99990
+X,LR (100D),Model X,2021-10-22,104990
+X,LR (100D),Model X,2022-01-06,104990
+X,LR (100D),Model X,2022-01-07,104990
+X,LR (100D),Model X,2022-03-13,104990
+X,LR (100D),Model X,2022-03-14,114990
+X,LR (100D),Model X,2022-06-14,114990
+X,LR (100D),Model X,2022-06-15,120990
+X,LR (100D),Model X,2022-12-30,120990
+X,LR (100D),Model X,2023-01-11,120990
+X,LR (100D),Model X,2023-01-12,109990
+X,LR (100D),Model X,2023-03-04,109990
+X,LR (100D),Model X,2023-03-05,99990
+X,LR (100D),Model X,2023-04-05,99990
+X,LR (100D),Model X,2023-04-06,94990
+X,LR (100D),Model X,2023-04-19,94990
+X,LR (100D),Model X,2023-04-20,97490
+X,LR (100D),Model X,2023-05-10,97490
+X,LR (100D),Model X,2023-05-11,98490
+X,LR (100D),Model X,2023-05-19,98490
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2018-10-01,140000
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2018-11-09,140000
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2018-11-10,140000
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2018-12-31,140000
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2019-01-01,138000
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2019-01-28,138000
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2019-01-29,137000
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2019-02-27,137000
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2019-02-28,119000
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2019-03-20,119000
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2019-03-21,124000
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2019-04-22,124000
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2019-04-23,124000
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2019-05-20,124000
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2019-05-21,122000
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2019-07-14,122000
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2019-07-15,104990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2020-05-26,104990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2020-05-27,99990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2021-01-26,99990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2021-01-27,119990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2021-07-07,119990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2021-07-08,119990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2021-08-03,119990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2021-08-04,119990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2021-10-21,119990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2021-10-22,119990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2022-01-06,119990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2022-01-07,126490
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2022-03-13,126490
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2022-03-14,138990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2022-06-14,138990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2022-06-15,138990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2022-12-30,138990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2023-01-11,138990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2023-01-12,119990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2023-03-04,119990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2023-03-05,109990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2023-04-05,109990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2023-04-06,104990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2023-04-19,104990
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2023-04-20,107490
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2023-05-10,107490
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2023-05-11,108490
+X,"Plaid (P-LR+L, P100DL)",Model X Plaid,2023-05-19,108490
+3,SR (SR+),Model 3,2019-02-28,37000
+3,SR (SR+),Model 3,2019-03-20,37000
+3,SR (SR+),Model 3,2019-03-21,37500
+3,SR (SR+),Model 3,2019-04-10,37500
+3,SR (SR+),Model 3,2019-04-11,39500
+3,SR (SR+),Model 3,2019-05-13,39500
+3,SR (SR+),Model 3,2019-05-14,39900
+3,SR (SR+),Model 3,2019-06-17,39900
+3,SR (SR+),Model 3,2019-07-14,39900
+3,SR (SR+),Model 3,2019-07-15,38990
+3,SR (SR+),Model 3,2019-07-18,38990
+3,SR (SR+),Model 3,2019-08-12,38990
+3,SR (SR+),Model 3,2019-08-13,38990
+3,SR (SR+),Model 3,2019-08-15,38990
+3,SR (SR+),Model 3,2019-08-16,38990
+3,SR (SR+),Model 3,2019-10-16,38990
+3,SR (SR+),Model 3,2019-10-17,39490
+3,SR (SR+),Model 3,2019-10-31,39490
+3,SR (SR+),Model 3,2019-11-01,39490
+3,SR (SR+),Model 3,2019-12-12,39490
+3,SR (SR+),Model 3,2019-12-13,39990
+3,SR (SR+),Model 3,2020-01-28,39990
+3,SR (SR+),Model 3,2020-01-29,39990
+3,SR (SR+),Model 3,2020-05-22,39990
+3,SR (SR+),Model 3,2020-05-26,39990
+3,SR (SR+),Model 3,2020-05-27,37990
+3,SR (SR+),Model 3,2020-11-15,37990
+3,SR (SR+),Model 3,2020-11-16,37990
+3,SR (SR+),Model 3,2021-02-16,37990
+3,SR (SR+),Model 3,2021-02-17,36990
+3,SR (SR+),Model 3,2021-02-20,36990
+3,SR (SR+),Model 3,2021-02-21,36990
+3,SR (SR+),Model 3,2021-03-10,36990
+3,SR (SR+),Model 3,2021-03-11,37490
+3,SR (SR+),Model 3,2021-03-23,37490
+3,SR (SR+),Model 3,2021-03-24,37990
+3,SR (SR+),Model 3,2021-04-07,37990
+3,SR (SR+),Model 3,2021-04-08,38490
+3,SR (SR+),Model 3,2021-04-21,38490
+3,SR (SR+),Model 3,2021-04-22,38990
+3,SR (SR+),Model 3,2021-05-05,38990
+3,SR (SR+),Model 3,2021-05-06,39490
+3,SR (SR+),Model 3,2021-05-20,39490
+3,SR (SR+),Model 3,2021-05-21,39990
+3,SR (SR+),Model 3,2021-07-21,39990
+3,SR (SR+),Model 3,2021-07-22,39990
+3,SR (SR+),Model 3,2021-10-04,39990
+3,SR (SR+),Model 3,2021-10-05,41990
+3,SR (SR+),Model 3,2021-10-21,41990
+3,SR (SR+),Model 3,2021-10-22,43990
+3,SR (SR+),Model 3,2021-11-03,43990
+3,SR (SR+),Model 3,2021-11-04,44990
+3,SR (SR+),Model 3,2022-03-08,44990
+3,SR (SR+),Model 3,2022-03-09,44990
+3,SR (SR+),Model 3,2022-03-13,44990
+3,SR (SR+),Model 3,2022-03-14,46990
+3,SR (SR+),Model 3,2022-04-05,46990
+3,SR (SR+),Model 3,2022-04-06,46990
+3,SR (SR+),Model 3,2022-06-14,46990
+3,SR (SR+),Model 3,2022-06-15,46990
+3,SR (SR+),Model 3,2022-08-11,46990
+3,SR (SR+),Model 3,2022-08-12,46990
+3,SR (SR+),Model 3,2022-12-01,46990
+3,SR (SR+),Model 3,2022-12-22,46990
+3,SR (SR+),Model 3,2023-01-11,46990
+3,SR (SR+),Model 3,2023-01-12,43990
+3,SR (SR+),Model 3,2023-02-02,43990
+3,SR (SR+),Model 3,2023-02-03,43490
+3,SR (SR+),Model 3,2023-02-11,43490
+3,SR (SR+),Model 3,2023-02-12,42990
+3,SR (SR+),Model 3,2023-04-05,42990
+3,SR (SR+),Model 3,2023-04-06,41990
+3,SR (SR+),Model 3,2023-04-17,41990
+3,SR (SR+),Model 3,2023-04-18,39990
+3,SR (SR+),Model 3,2023-04-30,39990
+3,SR (SR+),Model 3,2023-05-01,40240
+3,SR (SR+),Model 3,2023-05-02,40240
+3,SR (SR+),Model 3,2023-05-19,40240
+3,LR-AWD,Model 3 Long Range,2018-05-20,54000
+3,LR-AWD,Model 3 Long Range,2018-06-25,54000
+3,LR-AWD,Model 3 Long Range,2018-06-26,53000
+3,LR-AWD,Model 3 Long Range,2018-08-01,53000
+3,LR-AWD,Model 3 Long Range,2018-08-02,54000
+3,LR-AWD,Model 3 Long Range,2018-09-09,54000
+3,LR-AWD,Model 3 Long Range,2018-09-10,55000
+3,LR-AWD,Model 3 Long Range,2018-10-17,55000
+3,LR-AWD,Model 3 Long Range,2018-10-18,54000
+3,LR-AWD,Model 3 Long Range,2018-10-23,54000
+3,LR-AWD,Model 3 Long Range,2018-10-24,53000
+3,LR-AWD,Model 3 Long Range,2018-10-25,53000
+3,LR-AWD,Model 3 Long Range,2018-10-26,53000
+3,LR-AWD,Model 3 Long Range,2018-11-07,53000
+3,LR-AWD,Model 3 Long Range,2018-12-31,53000
+3,LR-AWD,Model 3 Long Range,2019-01-01,51000
+3,LR-AWD,Model 3 Long Range,2019-02-04,51000
+3,LR-AWD,Model 3 Long Range,2019-02-05,49900
+3,LR-AWD,Model 3 Long Range,2019-02-27,49900
+3,LR-AWD,Model 3 Long Range,2019-02-28,47000
+3,LR-AWD,Model 3 Long Range,2019-03-20,47000
+3,LR-AWD,Model 3 Long Range,2019-03-21,48500
+3,LR-AWD,Model 3 Long Range,2019-04-10,48500
+3,LR-AWD,Model 3 Long Range,2019-04-11,49500
+3,LR-AWD,Model 3 Long Range,2019-05-13,49500
+3,LR-AWD,Model 3 Long Range,2019-05-14,49900
+3,LR-AWD,Model 3 Long Range,2019-06-17,49900
+3,LR-AWD,Model 3 Long Range,2019-07-14,49900
+3,LR-AWD,Model 3 Long Range,2019-07-15,47990
+3,LR-AWD,Model 3 Long Range,2019-07-18,47990
+3,LR-AWD,Model 3 Long Range,2019-08-12,47990
+3,LR-AWD,Model 3 Long Range,2019-08-13,47990
+3,LR-AWD,Model 3 Long Range,2019-08-15,47990
+3,LR-AWD,Model 3 Long Range,2019-08-16,47990
+3,LR-AWD,Model 3 Long Range,2019-10-16,47990
+3,LR-AWD,Model 3 Long Range,2019-10-17,47990
+3,LR-AWD,Model 3 Long Range,2019-10-31,47990
+3,LR-AWD,Model 3 Long Range,2019-11-01,48490
+3,LR-AWD,Model 3 Long Range,2019-12-12,48490
+3,LR-AWD,Model 3 Long Range,2019-12-13,48990
+3,LR-AWD,Model 3 Long Range,2020-01-28,48990
+3,LR-AWD,Model 3 Long Range,2020-01-29,48990
+3,LR-AWD,Model 3 Long Range,2020-05-22,48990
+3,LR-AWD,Model 3 Long Range,2020-05-26,48990
+3,LR-AWD,Model 3 Long Range,2020-05-27,46990
+3,LR-AWD,Model 3 Long Range,2020-11-15,46990
+3,LR-AWD,Model 3 Long Range,2020-11-16,46990
+3,LR-AWD,Model 3 Long Range,2021-02-16,46990
+3,LR-AWD,Model 3 Long Range,2021-02-17,46990
+3,LR-AWD,Model 3 Long Range,2021-02-20,46990
+3,LR-AWD,Model 3 Long Range,2021-02-21,45990
+3,LR-AWD,Model 3 Long Range,2021-03-10,45990
+3,LR-AWD,Model 3 Long Range,2021-03-11,46490
+3,LR-AWD,Model 3 Long Range,2021-03-23,46490
+3,LR-AWD,Model 3 Long Range,2021-03-24,46990
+3,LR-AWD,Model 3 Long Range,2021-04-07,46990
+3,LR-AWD,Model 3 Long Range,2021-04-08,47490
+3,LR-AWD,Model 3 Long Range,2021-04-21,47490
+3,LR-AWD,Model 3 Long Range,2021-04-22,47990
+3,LR-AWD,Model 3 Long Range,2021-05-05,47990
+3,LR-AWD,Model 3 Long Range,2021-05-06,48490
+3,LR-AWD,Model 3 Long Range,2021-05-20,48490
+3,LR-AWD,Model 3 Long Range,2021-05-21,48990
+3,LR-AWD,Model 3 Long Range,2021-07-21,48990
+3,LR-AWD,Model 3 Long Range,2021-07-22,49990
+3,LR-AWD,Model 3 Long Range,2021-10-04,49990
+3,LR-AWD,Model 3 Long Range,2021-10-05,49990
+3,LR-AWD,Model 3 Long Range,2021-10-21,49990
+3,LR-AWD,Model 3 Long Range,2021-10-22,49990
+3,LR-AWD,Model 3 Long Range,2021-11-03,49990
+3,LR-AWD,Model 3 Long Range,2021-11-04,50990
+3,LR-AWD,Model 3 Long Range,2022-03-08,50990
+3,LR-AWD,Model 3 Long Range,2022-03-09,51990
+3,LR-AWD,Model 3 Long Range,2022-03-13,51990
+3,LR-AWD,Model 3 Long Range,2022-03-14,54490
+3,LR-AWD,Model 3 Long Range,2022-04-05,54490
+3,LR-AWD,Model 3 Long Range,2022-04-06,55990
+3,LR-AWD,Model 3 Long Range,2022-06-14,55990
+3,LR-AWD,Model 3 Long Range,2022-06-15,57990
+3,LR-AWD,Model 3 Long Range,2022-08-11,57990
+3,LR-AWD,Model 3 Long Range,2023-05-02,47240
+3,LR-AWD,Model 3 Long Range,2023-05-19,47240
+3,P,Model 3 Performance,2018-05-20,78000
+3,P,Model 3 Performance,2018-06-25,78000
+3,P,Model 3 Performance,2018-06-26,69000
+3,P,Model 3 Performance,2018-08-01,69000
+3,P,Model 3 Performance,2018-08-02,69000
+3,P,Model 3 Performance,2018-09-09,69000
+3,P,Model 3 Performance,2018-09-10,69000
+3,P,Model 3 Performance,2018-10-17,69000
+3,P,Model 3 Performance,2018-10-18,69000
+3,P,Model 3 Performance,2018-10-23,69000
+3,P,Model 3 Performance,2018-10-24,69000
+3,P,Model 3 Performance,2018-10-25,69000
+3,P,Model 3 Performance,2018-10-26,64000
+3,P,Model 3 Performance,2018-11-07,64000
+3,P,Model 3 Performance,2018-12-31,64000
+3,P,Model 3 Performance,2019-01-01,62000
+3,P,Model 3 Performance,2019-02-04,62000
+3,P,Model 3 Performance,2019-02-05,60900
+3,P,Model 3 Performance,2019-02-27,60900
+3,P,Model 3 Performance,2019-02-28,58000
+3,P,Model 3 Performance,2019-03-20,58000
+3,P,Model 3 Performance,2019-03-21,59500
+3,P,Model 3 Performance,2019-04-10,59500
+3,P,Model 3 Performance,2019-04-11,59500
+3,P,Model 3 Performance,2019-05-13,59500
+3,P,Model 3 Performance,2019-05-14,59900
+3,P,Model 3 Performance,2019-06-17,59900
+3,P,Model 3 Performance,2019-07-14,59900
+3,P,Model 3 Performance,2019-07-15,54990
+3,P,Model 3 Performance,2019-07-18,54990
+3,P,Model 3 Performance,2019-08-12,54990
+3,P,Model 3 Performance,2019-08-13,54990
+3,P,Model 3 Performance,2019-08-15,54990
+3,P,Model 3 Performance,2019-08-16,55990
+3,P,Model 3 Performance,2019-10-16,55990
+3,P,Model 3 Performance,2019-10-17,56990
+3,P,Model 3 Performance,2019-10-31,56990
+3,P,Model 3 Performance,2019-11-01,56990
+3,P,Model 3 Performance,2019-12-12,56990
+3,P,Model 3 Performance,2019-12-13,56990
+3,P,Model 3 Performance,2020-01-28,56990
+3,P,Model 3 Performance,2020-01-29,56990
+3,P,Model 3 Performance,2020-05-22,56990
+3,P,Model 3 Performance,2020-05-26,56990
+3,P,Model 3 Performance,2020-05-27,54990
+3,P,Model 3 Performance,2020-11-15,54990
+3,P,Model 3 Performance,2020-11-16,54990
+3,P,Model 3 Performance,2021-02-16,54990
+3,P,Model 3 Performance,2021-02-17,55900
+3,P,Model 3 Performance,2021-02-20,55900
+3,P,Model 3 Performance,2021-02-21,55900
+3,P,Model 3 Performance,2021-03-10,55900
+3,P,Model 3 Performance,2021-03-11,55900
+3,P,Model 3 Performance,2021-03-23,55900
+3,P,Model 3 Performance,2021-03-24,55900
+3,P,Model 3 Performance,2021-04-07,55900
+3,P,Model 3 Performance,2021-04-08,56990
+3,P,Model 3 Performance,2021-04-21,56990
+3,P,Model 3 Performance,2021-04-22,56990
+3,P,Model 3 Performance,2021-05-05,56990
+3,P,Model 3 Performance,2021-05-06,56990
+3,P,Model 3 Performance,2021-05-20,56990
+3,P,Model 3 Performance,2021-05-21,56990
+3,P,Model 3 Performance,2021-07-21,56990
+3,P,Model 3 Performance,2021-07-22,56990
+3,P,Model 3 Performance,2021-10-04,56990
+3,P,Model 3 Performance,2021-10-05,57990
+3,P,Model 3 Performance,2021-10-21,57990
+3,P,Model 3 Performance,2021-10-22,57990
+3,P,Model 3 Performance,2021-11-03,57990
+3,P,Model 3 Performance,2021-11-04,58990
+3,P,Model 3 Performance,2022-03-08,58990
+3,P,Model 3 Performance,2022-03-09,58990
+3,P,Model 3 Performance,2022-03-13,58990
+3,P,Model 3 Performance,2022-03-14,61990
+3,P,Model 3 Performance,2022-04-05,61990
+3,P,Model 3 Performance,2022-04-06,62990
+3,P,Model 3 Performance,2022-06-14,62990
+3,P,Model 3 Performance,2022-06-15,62990
+3,P,Model 3 Performance,2022-08-11,62990
+3,P,Model 3 Performance,2022-08-12,62990
+3,P,Model 3 Performance,2022-12-01,62990
+3,P,Model 3 Performance,2022-12-22,62990
+3,P,Model 3 Performance,2023-01-11,62990
+3,P,Model 3 Performance,2023-01-12,53990
+3,P,Model 3 Performance,2023-02-02,53990
+3,P,Model 3 Performance,2023-02-03,53990
+3,P,Model 3 Performance,2023-02-11,53990
+3,P,Model 3 Performance,2023-02-12,53990
+3,P,Model 3 Performance,2023-04-05,53990
+3,P,Model 3 Performance,2023-04-06,52990
+3,P,Model 3 Performance,2023-04-17,52990
+3,P,Model 3 Performance,2023-04-18,52990
+3,P,Model 3 Performance,2023-04-30,52990
+3,P,Model 3 Performance,2023-05-01,53240
+3,P,Model 3 Performance,2023-05-02,53240
+3,P,Model 3 Performance,2023-05-19,53240
